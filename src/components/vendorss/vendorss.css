@@ -1,0 +1,25 @@
+body {
+    background-color: #d3d3d3;
+}
+.button {
+    border: 1px solid green;
+    padding: 5px 10px;
+    margin: 5px;
+    text-align: center;
+}
+.card {
+    background-color: #4169e1;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px;
+    color: white;
+    text-align: center;
+}
+.nav-button {
+    background-color: #4169e1;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 5px;
+    color: white;
+    text-align: center;
+}

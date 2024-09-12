@@ -1,0 +1,38 @@
+.button-blue {
+    background-color: #3366cc;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button-gray {
+    background-color: #999999;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.input-label {
+    background-color: #3366cc;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+.input-field {
+    background-color: #99ccff;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+.header {
+    background-color: #99ccff;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 20px;
+}
